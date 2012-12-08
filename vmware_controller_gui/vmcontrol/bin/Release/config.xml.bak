@@ -1,0 +1,30 @@
+<machines>
+  <vm folder="Windows">
+    <name>winxpsp1</name>
+    <path>c:\vm\winxpsp1.vmx</path>
+  </vm>
+  <vm folder="Windows">
+    <name>winxpsp0</name>
+    <path>D:\guest_os\vmware\winxpsp0\winxpsp0.vmx</path>
+  </vm>
+  <vm folder="Linux">
+    <name>ubuntu</name>
+    <path>c:\vm\ubuntu.vmx</path>
+  </vm>
+  <vm folder="Linux">
+    <name>ubuntu</name>
+    <path>c:\vm\ubuntu.vmx</path>
+  </vm>
+  <vm folder="FreeBSD">
+    <name>bsd</name>
+    <path>c:\vm\bsd.vmx</path>
+  </vm>
+  <vm folder="Novell Netware">
+    <name>test</name>
+    <path>abcd.vmx</path>
+  </vm>
+  <vm folder="Sun Solaris">
+    <name>solaris</name>
+    <path>new.vmx</path>
+  </vm>
+</machines>

@@ -1,0 +1,6 @@
+<machines>
+  <vm folder="Windows">
+    <name>winxp</name>
+    <path>D:\guest_os\vmware\winxpsp3-rce-va\winxpsp3-rce-va.vmx</path>
+  </vm>
+</machines>

@@ -1,0 +1,17 @@
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\bin\Debug\vmcontrol.exe
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\bin\Debug\vmcontrol.pdb
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\bin\Debug\vmcontrol.xml
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\ResolveAssemblyReference.cache
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Explorer1.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Resources.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\vmcontrol.vbproj.GenerateResource.Cache
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\vmcontrol.exe
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\vmcontrol.xml
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\vmcontrol.pdb
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Dialog1.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\bin\Debug\vmcontrol.exe.config
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Dialog2.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Dialog3.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.LoginForm1.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Dialog4.resources
+D:\my_code_snippets\vmcontroller\vmcontrol\vmcontrol\obj\Debug\WindowsApplication1.Dialog5.resources

@@ -1,0 +1,10 @@
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\bin\Release\networkClipboardServer.exe
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\bin\Release\networkClipboardServer.pdb
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\bin\Release\networkClipboardServer.xml
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\ResolveAssemblyReference.cache
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboard.Form1.resources
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboard.Resources.resources
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboardServer.vbproj.GenerateResource.Cache
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboardServer.exe
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboardServer.xml
+D:\my_codes\networkClipboard\networkClipboardServer\networkClipboardServer\obj\Release\networkClipboardServer.pdb
